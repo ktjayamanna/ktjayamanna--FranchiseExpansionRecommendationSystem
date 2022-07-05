@@ -1,1 +1,2 @@
-#Franchise Expansion Recommendation System can predict which candidate city would be the best city to expand your business to be more profitable.
+#Credits: Stanford/Coursera Machine Learning Specialization, Course 1/ Week 1/ Practice Lab
+##Franchise Expansion Recommendation System can predict which candidate city would be the best city to expand your business to be more profitable.
