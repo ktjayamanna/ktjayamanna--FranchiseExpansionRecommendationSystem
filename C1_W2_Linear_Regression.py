@@ -138,8 +138,6 @@ plt.show()
 
 # Your goal is to build a linear regression model to fit this data.
 # - With this model, you can then input a new city's population, and have the model estimate your restaurant's potential monthly profits for that city.
-
-# <a name="4"></a>
 # ## 4 - Refresher on linear regression
 # 
 # In this practice lab, you will fit the linear regression parameters $(w,b)$ to your dataset.
